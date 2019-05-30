@@ -10,9 +10,9 @@ My Design Criteria:
 - Should be able to track multiple users (like a husband and wife pair).
 - Should use capacitive touch (seems more robust and it's something new to learn).
 - Should have colored LEDs that shine up through the PCB (similar to the static LED color on the EDC). Color can be used for:
--- Indicating missed days with red (or some alternative) color.
--- Showing fancy animations to entice interaction/completion.
--- Indicating separate users and tasks via differing color schemes.
+  - Indicating missed days with red (or some alternative) color.
+  - Showing fancy animations to entice interaction/completion.
+  - Indicating separate users and tasks via differing color schemes.
 
 Additional considerations (some after starting the design):
 - There's no need to have the LEDs on all the time. Perhaps some sort of human presense detector can be incorporated to only turn on the LEDs when someone is near the system.
