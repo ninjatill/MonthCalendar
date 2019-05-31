@@ -1,4 +1,4 @@
-# MonthCalendar
+# Month Calendar
 A daily gold star system, one month at a time. Inspired by the [Every Day Calendar](https://www.kickstarter.com/projects/simonegiertz/the-every-day-calendar), this is a compact version that has 48 total touch pads.
 
 I saw the Every Day Calendar (EDC) referenced on the Particle forums. It sounded like a great idea and I needed way to track if I took my daily allergy pill. However, the EDC is very large and therefore expensive to manufacture. It is also a big challenge (and cost) to read 365 touch inputs and control 365 LEDs (especially if made to be RGB or varying intensity). I also thought the functionality could be expanded beyond just turning an LED on to indicate completion. By the time I got around to designing my own version, the Kickstarter campain had closed and there were no resouces made available via open source yet. So I designed it all from scratch.
