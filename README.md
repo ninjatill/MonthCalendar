@@ -23,6 +23,6 @@ Additional considerations (some after starting the design):
 
 The initial design uses 2 PCBs connected via pin headers. The bottom PCB contains all the controller hardware and LEDs. The Top PCB is merely a touch plate containing all the capacitive touch pads. The microcontroller is inserted on the back-side of the controller PCB as well as the power entry ports. The PCBs will be mounted in a 3D printed case. 
 
-#WARNING: This project is in development!
-###Only v0.x files have been uploaded for review and all designs are subject to change without notice.
+# WARNING: This project is in development!
+### Only v0.x files have been uploaded for review and all designs are subject to change without notice.
 
